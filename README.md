@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is BODDA GOVINDARAO and I'm a Student , from GIET ENGINEERING COLLEGE</h2>
+<h2 align="center">Hi 👋! I'M GovindaRao<br>FULL STACK JAVA DEVELOPER<br>Sure! Here's a more polished and attractive version:<br><br>Driven and results-oriented Full Stack Java Developer with a strong command of Java, Spring Boot, and cutting-edge web technologies. Passionate about crafting high-performance, scalable, and secure applications that solve real-world problems. Well-versed in core backend technologies such as Java, OOP, SQL, and RESTful APIs, with a solid understanding of frontend development using HTML, CSS, JavaScript, and React.js. Adept at building seamless, user-friendly experiences while optimizing performance and security. Continuously expanding technical skills and keeping up with the latest frameworks and best practices. Thrives in dynamic, collaborative environments and is eager to contribute to innovative projects. Looking for an opportunity to apply my full-stack expertise and grow as a key contributor in the software development world.</h2>
 
 ###
 
