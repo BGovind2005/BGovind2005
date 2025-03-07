@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" height="200vh" width="100%" alt="banner" />
+
 <h2 align="center">Hi 👋! I'M GovindaRao</h2>
 <h3 align="center">FULL STACK JAVA DEVELOPER | FRESHER</h3>
 <h4 align="left">Passionate Full Stack Java Developer with expertise in Java, Spring Boot, SQL, and RESTful APIs. Skilled in frontend technologies like HTML, CSS, JavaScript, and React.js. Focused on building scalable, secure, and high-performance applications. Eager to collaborate in dynamic teams and stay ahead with the latest frameworks and best practices. Ready to contribute and grow in the software development field.</h4>
@@ -67,5 +69,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/BGovind2005/count.svg?"  />
 </div>
-
-###
