@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! I'M GovindaRao<br>FULL STACK JAVA DEVELOPER<br><br>Passionate Full Stack Java Developer with expertise in Java, Spring Boot, SQL, and RESTful APIs. Skilled in frontend technologies like HTML, CSS, JavaScript, and React.js. Focused on building scalable, secure, and high-performance applications. Eager to collaborate in dynamic teams and stay ahead with the latest frameworks and best practices. Ready to contribute and grow in the software development field.</h2>
+<h2 align="center">Hi 👋! I'M GovindaRao<br>FULL STACK JAVA DEVELOPER<br></h2><br>
+<h4 Passionate Full Stack Java Developer with expertise in Java, Spring Boot, SQL, and RESTful APIs. Skilled in frontend technologies like HTML, CSS, JavaScript, and React.js. Focused on building scalable, secure, and high-performance applications. Eager to collaborate in dynamic teams and stay ahead with the latest frameworks and best practices. Ready to contribute and grow in the software development field.</h4>
 
 ###
 
